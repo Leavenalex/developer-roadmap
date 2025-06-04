@@ -7,7 +7,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 <sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
 
 ## Disclaimer
-> The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+> The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other, and remember hip and trendy never means best suited for the job
 
 ## 🚀 Introduction
 
@@ -48,7 +48,7 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 ## Sponsored By
 
 - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [Highig - Think and its done](http://highig.com/)
+- [Highig - Think and it's done](http://highig.com/)
 
 ## License
 
